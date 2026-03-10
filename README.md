@@ -22,8 +22,3 @@
    <a href="mailto:gim181004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/peudoveu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
  </p>
-  
- 
-
-[![rlarudals's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarudals&show_icons=true&theme=default)](https://github.com/rlarudals/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarudals&layout=compact&show_icons=true&theme=default)](https://github.com/rlarudals/github-readme-stats)
