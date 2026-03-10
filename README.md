@@ -1,4 +1,4 @@
-<h3 align ="center">🔗 Teah Stack</h3>
+<h3 align ="center">Teah Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
  </p>
  
- <h3 align ="center">🔗 Me</h3>
+ <h3 align ="center">Me</h3>
  
  <p align="center">
    <a href="mailto:gim181004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
